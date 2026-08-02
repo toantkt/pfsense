@@ -1,6 +1,5 @@
 # pfSense Firewall & VPN Security
 
-![Platform](https://img.shields.io/badge/Platform-VMware-blue)
 ![Firewall](https://img.shields.io/badge/Firewall-pfSense-red)
 ![VPN](https://img.shields.io/badge/VPN-OpenVPN-green)
 ![Proxy](https://img.shields.io/badge/Proxy-Squid-orange)
@@ -30,7 +29,11 @@ pfsense/
 ├── img/
 │   └── topology.png 
 │
+├── config-pfSense.home.arpa-20260731112046.xml
+│
 ├── LICENSE
+│
+├── pfSense-UDP4-1194-user1-config.ovpn
 │
 ├── README.md
 │
