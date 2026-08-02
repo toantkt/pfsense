@@ -29,15 +29,15 @@ pfsense/
 ├── img/
 │   └── topology.png 
 │
-├── config-pfSense.home.arpa-20260731112046.xml
-│
 ├── LICENSE
-│
-├── pfSense-UDP4-1194-user1-config.ovpn
 │
 ├── README.md
 │
-└── Report.pdf
+├── Report.pdf
+│
+├── config-pfSense.home.arpa-20260731112046.xml
+│
+└── pfSense-UDP4-1194-user1-config.ovpn
 ```
 
 ## Network Topology
